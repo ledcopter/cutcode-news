@@ -1,0 +1,7 @@
+name: cutcode-news
+recipe: laravel
+config:
+  webroot: .
+services:
+  appserver:
+    type: php:8.3
